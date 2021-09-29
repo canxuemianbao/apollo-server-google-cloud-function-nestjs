@@ -6,11 +6,9 @@
 # compiled output
 /dash
 /tmp
-/dist
 
 # dependencies
 /node_modules
-/dist
 
 # IDEs and editors
 /.idea
